@@ -4,7 +4,7 @@ import React from 'react'
 const ErrorPage = () => {
     return (
         <div>
-
+            <a>Error 404</a>
         </div>
     )
 }

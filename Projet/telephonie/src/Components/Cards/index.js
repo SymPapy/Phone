@@ -4,7 +4,7 @@ import React from 'react'
 const Cards = () => {
     return(
         <div>
-
+            <a>Cards de recherche</a>
         </div>
     )
 }

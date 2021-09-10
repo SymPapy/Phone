@@ -4,7 +4,7 @@ import React from 'react'
 const AddContact = () => {
     return(
         <div>
-
+            <a>Ajout d'un employé</a>
         </div>
     )
 }

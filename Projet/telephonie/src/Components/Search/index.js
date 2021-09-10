@@ -4,7 +4,7 @@ import React from 'react'
 const Search = () => {
     return(
         <div>
-
+            <a>Recherche d'employé</a>
         </div>
     )
 }
